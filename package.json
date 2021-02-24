@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-gcn",
-  "description": "A starter template to build amazing static websites with Gatsby, Contentful and Netlify",
+  "name": "Ateetoi",
+  "description": "Site web de la marque Ateetoi",
   "version": "2.1.3",
-  "repository": "https://github.com/ryanwiemer/gatsby-starter-gcn",
-  "author": "Ryan Wiemer <ryan@ryanwiemer.com>",
+  "repository": "https://github.com/taguirre-dev/ateetoi",
+  "author": "Thomas AGUIRREGABIRIA <taguirre.dev@gmail.com>",
   "dependencies": {
     "@emotion/core": "^10.0.27",
     "@emotion/styled": "^10.0.27",
